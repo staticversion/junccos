@@ -4,11 +4,12 @@ h3,#ij{
     margin:0;
 }
 body{ margin:0;}
-a{color:black; 
+a{color:rgb(8, 8, 8); 
 text-decoration: none;}
 h1{text-align:center; font-size:50px;
    border-bottom:5px solid gray;
-   margin:0; padding:20px;}
+   margin:0; padding:10px;
+width:1500px;}
 #lovely{ display:grid;
          grid-template-columns:300px 1fr;}
 ul{
